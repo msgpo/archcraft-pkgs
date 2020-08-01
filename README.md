@@ -1,2 +1,2 @@
-# archcraft-pkgs
-// Repository : Compiled Packages
+# Archcraft Repository
+// Status : WIP
